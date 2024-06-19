@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM index.docker.io/library/python:3.11-slim@sha256:17ec9dc2367aa748559d0212f34665ec4df801129de32db705ea34654b5bc77a
 
 WORKDIR /app
 
