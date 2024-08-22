@@ -1,1 +1,2 @@
 Flask
+slack_sdk==3.31.0
